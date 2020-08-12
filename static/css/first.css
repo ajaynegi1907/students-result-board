@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(163, 164, 230, 0.623);
+}
+.header{
+    padding:60px;
+    text-align:center;
+    background:#0e4142;
+    color: white;
+    font-size:40px;
+}
+.row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:40px;
+    text-align:center;
+    background-color: #EF8354;
+    color:white;
+    font-size: 30px;
+}
+table,th,td{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    border:solid 2px #201a1a;
+    border-collapse:collapse;
+    padding:10px 10px;
+    text-align: center;
+
+}
+th{
+    font-weight:bold;
+    font-style: italic;
+}
+
